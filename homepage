@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-		
+var x = document.URL		
 <head> 
 <!--Depends on what font we want -->
 <link rel="stylesheet" type="text/css" href="style.css">

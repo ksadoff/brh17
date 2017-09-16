@@ -10,10 +10,10 @@
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title> Our Website </title>
 <div class="topnav" id="myTopnav">
-<ul>
-  <li><a href="#home">Home</a>
+<ul class= "toplist">
+  <li class = "main"><a href="#home">Home</a>
 </li>
-  <li class="dropdown">
+  <li class = "main"class="dropdown">
     <a
   href="javascript:void(0)"
   class="dropbtn">Topics</a>                        
@@ -23,11 +23,11 @@
       <a href="#"> All Topics</a>
     </div>
   </li>
-  <li><a href= "#discussion">Discussion</a></li>
-  <li style= "float:center"><a href="#search">Search:<input type="text" name="search"></a> </li>
-  <li style= "float:right"><a href="#login">Login</a></li>
-  <li style= "float:right"><a href="#about">About</a></li>
-  <li style= "float:right"><a href="#contact">Contact</a></li>
+  <li class = "main"><a href= "#discussion">Discussion</a></li>
+  <li class = "main"style= "float:center"><a href="#search">Search:<input type="text" name="search"></a> </li>
+  <li class = "main" style= "float:right"><a href="#login">Login</a></li>
+  <li class = "main" style= "float:right"><a href="#about">About</a></li>
+  <li class = "main" style= "float:right"><a href="#contact">Contact</a></li>
 </div>
 </body>
   <br></br>
@@ -35,23 +35,14 @@
   </h1>
 
 <h1 class= "intro">A Social Learning Experience </h1>
-  
-<h1 class = "h2">Login or create an account for personalized content </h1> 
+<br>
  
+<h1 class = "h2">Login or create an account for personalized content </h1> 
+<br><br><br><br>
 <h2> <p style = "text-align:center; color: #E0FFFF"> Today's sponsored video: </h2>
 <div class="container-fluid">
-<p align= "center"><iframe width="854" height="480" src="https://www.youtube.com/embed/FCNrMtgCoJI" frameborder="0" allowfullscreen></iframe>
-  <div class="row">
-    <div class="col-xs-4">
-      <button class="btn btn-block btn-primary"><i class="fa fa-thumbs-up"></i> Upvote</button>
-    </div>
-    <div class="col-xs-4">
-      <button class="btn btn-block btn-info"><i class="fa fa-info-circle"></i> Downvote</button>
-    </div>
-  </div>
-  </div>
-   <input type="text" class="form-control" placeholder="Comment" required>
-    <button type="submit" class="btn btn-primary"><i class="fa fa-paper-plane"></i> Submit</button>
+<p align= "center"><iframe width="720" height="400" src="https://www.youtube.com/embed/FCNrMtgCoJI" frameborder="0" allowfullscreen></iframe>
+  
   </form>
 </div>
         </body>

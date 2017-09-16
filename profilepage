@@ -3,5 +3,22 @@
 <head> <link rel="stylesheet" type="text/css" href="style.css">
 		<link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet"> </head>
     <title> Your Profile </title>
-    <body> </body>
+    <body>
+  <h3>Hello, Katie</h3>
+     </div>
+<div class="left">
+    <div class="sidebar bar-block" style="width:25%"> 
+  <a href="#" class="button">Your Videos</a>
+  <a href="#" class="button">Liked Videos</a>
+  <a href="#" class="button">Saved Topics</a>
+</div>
+      
+
+<div class="top">
+    TOP
+
+<div class="main">
+    MAIN
+</div>
+</body>
 </html>

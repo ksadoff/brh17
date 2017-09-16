@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head> 
+<!--Depends on what font we want -->
+<link rel="stylesheet" type="text/css" href="style.css">
+		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+</head>
+<body> 
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Our Website </title>
+<div class="topnav" id="myTopnav">
+<ul class= "toplist">
+  <li class = "main"><a href="#home">Home</a>
+</li>
+  <li class = "main"class="dropdown">
+    <a
+  href="javascript:void(0)"
+  class="dropbtn">Topics</a>                        
+    <div class="dropdown-content">
+      <a href="#"> Math</a>
+      <a href="#"> History</a>
+      <a href="#"> All Topics</a>
+    </div>
+  </li>
+  <li class = "main"><a href= "#discussion">Discussion</a></li>
+  <li class = "main"style= "float:center"><a href="#search">Search:<input type="text" name="search"></a> </li>
+  <li class = "main" style= "float:right"><a href="#login">Login</a></li>
+  <li class = "main" style= "float:right"><a href="#about">About</a></li>
+  <li class = "main" style= "float:right"><a href="#contact">Contact</a></li>
+</div>
+</body>
+  <br></br>
+<h1> <p style="font-size:45 px; color: #E0FFFF; font-weight: bold;"> Welcome to <span style= "color:#000000"> BLCK<span style= "color: #E0FFFF;">out! 
+  </h1>
+
+<h1 class= "intro">A Social Learning Experience </h1>

@@ -13,36 +13,49 @@ body {
     width: 80%;
 }
 h1 {
-  color: LightCyan
+  color: LightCyan;
+  text-align: center;
 }
 a{ 
 color: LightCyan;
   display: block;
-  padding: 38px;
-  background-color: ;
-  
+  padding: 38 px;
+  background-color:;
+  margin: auto;
+  text-align: center;
 }
 ul {
   list-style-type: none;
-  margin: 0;
+  margin: auto;
   padding: 0;
   overflow: hidden;
-  background-color: #808080
+  text-align: center;
+  background-color: #808080;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  border: 3px solid white;
 }
 li {
   float: left;
+  /*border-right: 3px solid white;**/
+  height: 100%;
+  margin: auto;
+  text-align: center;
 }
 li a {
-  display: block;
+  display: inline-block;
   color: white;
   text-align: center;
-  padding: 14px 40px;
+  padding: 10px 40px; 
   text-decoration: none;
+  margin: auto;
 }
 /* change link color on hover**/
 li a:hover {
   background-color: black
 }
+
 
 /*-previous-
 .topnav {

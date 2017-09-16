@@ -6,11 +6,17 @@
 		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 </head>
 <body> 
-<title> A Social Learning Experience </title>
-<div class = "top">
-	<div class = "bar left align large">
-	</div>
+<title> Our Website </title>
+<div class="topnav" id="myTopnav">
+  <a href="#home">Home</a>
+  <a href="#login">Login</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+  <a href="#search">Search:<input type="text" name="search"></a> 
 </div>
 </body>
+  <br></br>
+<h1> A Social Learning Experience </h1>
 
+<p class= "intro">Welcome to [website name]! </p>
 </html>

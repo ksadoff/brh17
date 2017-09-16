@@ -5,7 +5,21 @@
 <title>Intro</title>
 <h1> Welcome to our website! </h1>
 
-<div class = "main">
+<div class="container-fluid">
 <iframe width="854" height="480" src="https://www.youtube.com/embed/FCNrMtgCoJI" frameborder="0" allowfullscreen></iframe>
+  <div class="row">
+    <div class="col-xs-4">
+      <button class="btn btn-block btn-primary"><i class="fa fa-thumbs-up"></i> Upvote</button>
+    </div>
+    <div class="col-xs-4">
+      <button class="btn btn-block btn-info"><i class="fa fa-info-circle"></i> Downvote</button>
+    </div>
+  </div>
+  </div>
+   <input type="text" class="form-control" placeholder="Comment" required>
+    <button type="submit" class="btn btn-primary"><i class="fa fa-paper-plane"></i> Submit</button>
+  </form>
+</div>
 
+  </div>
 </html>

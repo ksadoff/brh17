@@ -1,51 +1,67 @@
 <!DOCTYPE html>
 <html>
-<head> <link rel="stylesheet" type="text/css" href="style.css">
-		<link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet"> </head>
+<head>  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous"/> 
+  <link rel="stylesheet" type="text/css" href="style.css"/>
+	<link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet"/> 
+  </head>
     <title> Your Profile </title>
-    <body>
-    
-<div class="top">
-      <div class="topnav" id="myTopnav">
-  <a href="#home">Home</a>
-  <a href="#login">Login</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
-  <a href="#search">Search:<input type="text" name="search"></a> 
-      </div>
+
+  <div class = "container">
+<body>
+<div class="topnav" id="myTopnav">
+<ul>
+  <li><a href="#home">Home</a>
+</li>
+  <li class="dropdown">
+    <a
+  href="javascript:void(0)"
+  class="dropbtn">Topics</a>                        
+    <div class="dropdown-content">
+      <a href="#"> Math</a>
+      <a href="#"> History</a>
+      <a href="#"> All Topics</a>
+    </div>
+  </li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+  <li><a href="#search">Search:<input type="text" name="search"></a> </li>
+  <li><a href="#login">Login</a></li>
+</div>
       <br> </br>
+  <br></br>
 <div class="left">
     <div class="sidebar bar-block" style="width:25%"> 
-  <a href="#" class="button">Your Videos</a>
+  <img src = "https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/20992892_1936819863254657_4083880388043489143_n.jpg?oh=bac503e8ce6d2c2c2b50137db52fcd20&oe=5A4AE21F"> 
+      <br> </br>
+  <!--
   <a href="#" class="button">Liked Videos</a>
-  <a href="#" class="button">Saved Topics</a>
-  <a href="#" class=""    
-</div>
-      </div>
+  -->
+  <div class = "well well-sm box"> 
+    <h4>Profile</h4>
+    <div class="col-md-12 col1 center-block">
+    <p>Katie Sadoff</p>
+    <p>New York, USA</p>
+    <p>Cornell University </p>
+  </div>
+  </div>
+  <div class = "row">
+        <div class="col-md-2 col-xs-2 col1 center-block"> 
+          <a href="#"><button class="btn center-block"> Your Videos</button></a>
+           <a href="#"><button class="btn center-block"> Your Followers</button></a>
+ 
+  </div>   
+  </div>
 <div class="main">
-  <h3>Hello, Katie</h3>
+<h2>Hello, Katie</h2>
      </div>
-  <div class ="right">
- <div class="w3-card-2 w3-round w3-white w3-hide-small">
-        <div class="w3-container">
-          <p>Subjects</p>
-          <p>
-            <div class = "row">
-            <span class="w3-tag w3-small w3-theme-d5">News</span>
-            <span class="w3-tag w3-small w3-theme-d4">W3Schools</span>
-            <span class="w3-tag w3-small w3-theme-d3">Labels</span>
-            <span class="w3-tag w3-small w3-theme-d1">Friends</span>
-            <span class="w3-tag w3-small w3-theme">Games</span>
-            <span class="w3-tag w3-small w3-theme-l1">Friends</span>
-            <span class="w3-tag w3-small w3-theme-l2">Food</span>
-            <span class="w3-tag w3-small w3-theme-l3">Design</span>
-            <span class="w3-tag w3-small w3-theme-l4">Art</span>
-            <span class="w3-tag w3-small w3-theme-l5">Photos</span>
-          </p>
-   </div>
-   </div>
-        </div>
-      </div>
-      <br>
-</body>
-</html>
+  
+<div class ="right">
+  <br></br>
+  <h4 class = "text-center">Saved Topics</h4>
+  <div class ="well well-lg">  
+   <p class="box"><a href="url">Calculus</a>, <a href="url">Game Design</a>, <a href="url">Food</a>, <a href="url">Art</a>, <a href="url">Photos</a></p>
+  </div>
+  </div>
+  </body>
+  </html>

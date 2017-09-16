@@ -12,7 +12,52 @@ body {
     padding: 10px;
     width: 80%;
 }
+h1 {
+  color: LightCyan;
+  text-align: center;
+}
+a{ 
+color: LightCyan;
+  display: block;
+  padding: 38 px;
+  background-color:;
+  margin: auto;
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  margin: auto;
+  padding: 0;
+  overflow: hidden;
+  text-align: center;
+  background-color: #808080;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  border: 3px solid white;
+}
+li {
+  float: left;
+  /*border-right: 3px solid white;**/
+  height: 100%;
+  margin: auto;
+  text-align: center;
+}
+li a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 10px 40px; 
+  text-decoration: none;
+  margin: auto;
+}
+/* change link color on hover**/
+li a:hover {
+  background-color: black
+}
 
+
+/*-previous-
 .topnav {
   color: 	#4B0082
   }
@@ -25,7 +70,7 @@ body {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
-}
+}**/
 
 /*Profile page*/
 h3 {

@@ -8,11 +8,12 @@
 <body> 
 <title> Our Website </title>
 <div class="topnav" id="myTopnav">
-  <a href="#home">Home</a>
-  <a href="#login">Login</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
-  <a href="#search">Search:<input type="text" name="search"></a> 
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#login">Login</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+  <li><a href="#search">Search:<input type="text" name="search"></a> </li>
 </div>
 </body>
   <br></br>

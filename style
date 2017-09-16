@@ -1,5 +1,5 @@
 /*Home page*/
-h1 {
+title {
   font-size: 36 pt;
   color: blue;
   text-align: center;

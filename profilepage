@@ -19,11 +19,33 @@
   <a href="#" class="button">Your Videos</a>
   <a href="#" class="button">Liked Videos</a>
   <a href="#" class="button">Saved Topics</a>
+  <a href="#" class=""    
 </div>
       </div>
 <div class="main">
   <h3>Hello, Katie</h3>
      </div>
-
+  <div class ="right">
+ <div class="w3-card-2 w3-round w3-white w3-hide-small">
+        <div class="w3-container">
+          <p>Subjects</p>
+          <p>
+            <div class = "row">
+            <span class="w3-tag w3-small w3-theme-d5">News</span>
+            <span class="w3-tag w3-small w3-theme-d4">W3Schools</span>
+            <span class="w3-tag w3-small w3-theme-d3">Labels</span>
+            <span class="w3-tag w3-small w3-theme-d1">Friends</span>
+            <span class="w3-tag w3-small w3-theme">Games</span>
+            <span class="w3-tag w3-small w3-theme-l1">Friends</span>
+            <span class="w3-tag w3-small w3-theme-l2">Food</span>
+            <span class="w3-tag w3-small w3-theme-l3">Design</span>
+            <span class="w3-tag w3-small w3-theme-l4">Art</span>
+            <span class="w3-tag w3-small w3-theme-l5">Photos</span>
+          </p>
+   </div>
+   </div>
+        </div>
+      </div>
+      <br>
 </body>
 </html>

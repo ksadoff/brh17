@@ -3,7 +3,7 @@
 <head> <link rel="stylesheet" type="text/css" href="style.css">
 		<link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet"> </head>
 <title>Intro</title>
-<h1> Welcome to our website! </h1>
+<h1> Videos! </h1>
 
 <div class="container-fluid">
 <iframe width="854" height="480" src="https://www.youtube.com/embed/FCNrMtgCoJI" frameborder="0" allowfullscreen></iframe>

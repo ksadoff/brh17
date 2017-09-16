@@ -32,13 +32,15 @@
   <br></br>
 <div class="left">
     <div class="sidebar bar-block" style="width:25%"> 
-  <img src = "https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/20992892_1936819863254657_4083880388043489143_n.jpg?oh=bac503e8ce6d2c2c2b50137db52fcd20&oe=5A4AE21F"> 
+      <h3>Profile</h3>
+      <img src = "https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/20992892_1936819863254657_4083880388043489143_n.jpg?oh=bac503e8ce6d2c2c2b50137db52fcd20&oe=5A4AE21F"> 
       <br> </br>
   <!--
   <a href="#" class="button">Liked Videos</a>
   -->
+
   <div class = "well well-sm box"> 
-    <h4>Profile</h4>
+
     <div class="col-md-12 col1 center-block">
     <p>Katie Sadoff</p>
     <p>New York, USA</p>
@@ -52,9 +54,36 @@
  
   </div>   
   </div>
+    <br></br>
 <div class="main">
 <h2>Hello, Katie</h2>
-     </div>
+  <br></br>
+<div class="container-fluid box2">
+  <h4 class="text-primary text-center">Recommended Videos</h4>
+  <div class="row">
+    <div class="col-xs-12">
+      <div class ="well"> 
+<span class="btn-group">      
+  <iframe width=100px height = 100px src="https://www.youtube.com/embed/FCNrMtgCoJI" frameborder="10" allowfullscreen></iframe>
+<iframe width=100px height = 100px src="https://www.youtube.com/embed/FCNrMtgCoJI" frameborder="10" allowfullscreen></iframe>
+  <button class ="btn btn-block" > <a href="#" class="next">More &raquo;</a> </button> </span>
+      </div>
+    </div>    
+    </div>
+  <hr></hr>
+  <h4 class="text-primary text-center">New and Noteworthy</h4>
+  <div class="row ">
+    <div class="col-xs-12">
+      <div class ="well"> 
+<span class="btn-group">      
+  <iframe width=100px height = 100px src="https://www.youtube.com/embed/FCNrMtgCoJI" frameborder="10" allowfullscreen></iframe>
+<iframe width=100px height = 100px src="https://www.youtube.com/embed/FCNrMtgCoJI" frameborder="10" allowfullscreen></iframe>
+  <button class ="btn btn-block" > <a href="#" class="next">More &raquo;</a> </button> </span>
+      </div>
+    </div>    
+    </div>
+  </div>
+</div>
   
 <div class ="right">
   <br></br>

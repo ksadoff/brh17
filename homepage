@@ -3,7 +3,7 @@
 <head> 
 <!--Depends on what font we want -->
 <link rel="stylesheet" type="text/css" href="style.css">
-		<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet">
 </head>
 <body> 
 <title> Our Website </title>

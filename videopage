@@ -3,10 +3,39 @@
 <head> <link rel="stylesheet" type="text/css" href="style.css">
 		<link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet"> </head>
 <title>Intro</title>
-<h1> Videos! </h1>
-
-<div class="container-fluid">
+<h1> Videos </h1>
+<h4><font color="white">Video Topics:</font></h4>
+<ul class="videostyle">
+  <li>Math
+  <ul class = "vidlist">Algebra I</ul>
+  <ul class = "vidlist">Algebra II</ul>
+  <ul class = "vidlist">Geometry</ul>
+  </li>
+  
+  <li>Science
+  <ul class = "vidlist">Physics</ul>
+  <ul class = "vidlist">Biology</ul>
+  <ul class = "vidlist">Chemistry</ul>
+  </li>
+  
+  <li>History
+  <ul class = "vidlist">US History</ul>
+  <ul class = "vidlist">European History</ul>
+  <ul class = "vidlist">African History</ul>
+  <ul class = "vidlist">Asian History</ul>
+  <ul class = "vidlist">Latin American History</ul>
+  <ul class = "vidlist">World History</ul>
+  </li>
+  
+  <li>Arts
+  <ul class = "vidlist">Art History</ul>
+  <ul class = "vidlist">Music</ul>
+  </li>
+</ul>
+  
+<!--<div class="container-fluid">
 <iframe width="854" height="480" src="https://www.youtube.com/embed/FCNrMtgCoJI" frameborder="0" allowfullscreen></iframe>
+ 
   <div class="row">
     <div class="col-xs-4">
       <button class="btn btn-block btn-primary"><i class="fa fa-thumbs-up"></i> Upvote</button>
@@ -22,4 +51,5 @@
 </div>
 
   </div>
+-->
 </html>

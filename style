@@ -1,1 +1,13 @@
+title {
+  font-size: 36 pt;
+  color: blue;
+  text-align: center;
+}
 
+body {
+    background-color: lightskyblue;
+    font-family: 'Oswald', sans-serif;
+    margin: auto;
+    padding: 10px;
+    width: 80%;
+}

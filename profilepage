@@ -4,21 +4,26 @@
 		<link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet"> </head>
     <title> Your Profile </title>
     <body>
-  <h3>Hello, Katie</h3>
-     </div>
+    
+<div class="top">
+      <div class="topnav" id="myTopnav">
+  <a href="#home">Home</a>
+  <a href="#login">Login</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+  <a href="#search">Search:<input type="text" name="search"></a> 
+      </div>
+      <br> </br>
 <div class="left">
     <div class="sidebar bar-block" style="width:25%"> 
   <a href="#" class="button">Your Videos</a>
   <a href="#" class="button">Liked Videos</a>
   <a href="#" class="button">Saved Topics</a>
 </div>
-      
-
-<div class="top">
-    TOP
-
+      </div>
 <div class="main">
-    MAIN
-</div>
+  <h3>Hello, Katie</h3>
+     </div>
+
 </body>
 </html>

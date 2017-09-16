@@ -33,6 +33,21 @@ body {
   text-align: center;
   
 }
+.videostyle{
+  list-style-type: none;
+  margin: auto;
+  padding:0;
+  overflow: visible;
+  text-align: left;
+  color: white;
+  top: 0;
+  width: 100%;
+  float: left;
+}
+.vidlist{
+  padding: 5;
+}
+
 li a {
   display: inline-block;
   color: white;

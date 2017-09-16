@@ -40,7 +40,7 @@ color: LightCyan;
   background-color: #808080;
   position: fixed;
   top: 0;
-  width: 100%;
+  width: 80%;
   float: left;
   border: 3px solid white;
 }

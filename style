@@ -5,9 +5,23 @@ title {
 }
 
 body {
-    background-color: lightskyblue;
+    background-color: #87CEFA;
     font-family: 'Oswald', sans-serif;
     margin: auto;
     padding: 10px;
     width: 80%;
+}
+
+.topnav {
+  color: 	#4B0082
+  }
+ 
+ .topnav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
 }

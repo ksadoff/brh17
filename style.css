@@ -5,7 +5,7 @@ title {
 }
 
 body {
-    background-color: #87CEFA;
+    background-color: #87CEFA !important;
     font-family: 'Oswald', sans-serif;
     margin: auto;
     padding: 10px;

@@ -117,10 +117,11 @@ img {
 
 .box2 {
   background-color: #CECCCC;
+  width: 300px;
 }
 .right {
-  position:fixed;
-  left: 500px; top: 0px; right:0; bottom:0;
+  position:absolute;
+  left: 500px; top: 0; right:0; bottom:0;
   width:200px;
 }
 .top {
@@ -130,7 +131,7 @@ img {
 }
 .main2 {
   position: absolute;
-  left:178px; top:92px; right:0; bottom:0;
+  left:178px; top:10px; right:0; bottom:0;
 }
 .box {
   background-color: white;
@@ -142,5 +143,8 @@ img {
 
 .box2 {
   background-color: #CECCCC;
+}
+p {
+  text-align: center
 }
 body { padding-top: 70px; }
